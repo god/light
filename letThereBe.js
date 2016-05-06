@@ -15,6 +15,11 @@ function inTheBeginning() {
       earth = deep;
     }
   }
-  return heaven + earth;
+
+  var evening = day = 4320000;
+
+  setTimeout(function() {
+    return heaven + earth;
+  }, evening + day);
 }
 
