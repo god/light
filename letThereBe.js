@@ -16,7 +16,7 @@ function inTheBeginning() {
     }
   }
 
-  var evening = day = 4320000;
+  var evening = day = 43200000;
 
   setTimeout(function() {
     return heaven + earth;
