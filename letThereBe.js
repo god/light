@@ -16,10 +16,10 @@ function inTheBeginning() {
     }
   }
 
-  var evening = day = 43200000;
+  var evening = day = 43200000; // 12 hours each
 
   setTimeout(function() {
     return heaven + earth;
-  }, evening + day);
+  }, evening + day); // one day
 }
 
