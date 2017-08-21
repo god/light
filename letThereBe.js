@@ -1,6 +1,6 @@
-function inTheBeginning() {
+let inTheBeginning = () => {
 
-  var heaven = {}, 
+  let heaven = {}, 
       earth;  
   
   let deep = 'darkness';
@@ -16,9 +16,9 @@ function inTheBeginning() {
     }
   }
 
-  var evening = day = 4320000;
-
-  setTimeout(function() {
+  let evening = day = 4320000;
+  
+  setTimeout(() => {
     return heaven + earth;
   }, evening + day);
 }
