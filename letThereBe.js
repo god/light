@@ -1,7 +1,7 @@
 function inTheBeginning() {
 
-  var heaven = {}, 
-      earth;  
+  const heaven = {}
+  var earth;  
   
   let deep = 'darkness';
 
