@@ -1,6 +1,6 @@
 function inTheBeginning() {
 
-  const heaven = {}
+  const heaven = {};
   var earth;  
   
   let deep = 'darkness';
