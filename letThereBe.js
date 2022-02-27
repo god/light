@@ -18,8 +18,8 @@ function inTheBeginning() {
 
   var evening = day = 4320000;
 
-  setTimeout(function() {
+  setTimeout(() => { (() => {
     return heaven + earth;
-  }, evening + day);
+  })() }, evening + day);
 }
 
